@@ -37,8 +37,8 @@
       <file leaf-file-name="app.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/app.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+            <state relative-caret-position="135">
+              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -48,7 +48,7 @@
         <entry file="file://$PROJECT_DIR$/css/foundation.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="235">
-              <caret line="2404" column="2" selection-start-line="2404" selection-start-column="2" selection-end-line="2404" selection-end-column="42" />
+              <caret line="2451" column="42" selection-start-line="2451" selection-start-column="0" selection-end-line="2451" selection-end-column="42" />
               <folding />
             </state>
           </provider>
@@ -236,12 +236,12 @@
       <workItem from="1461094279280" duration="2884000" />
       <workItem from="1461634812273" duration="20000" />
       <workItem from="1462846390411" duration="1674000" />
-      <workItem from="1462863939487" duration="573000" />
+      <workItem from="1462863939487" duration="1162000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5151000" />
+    <option name="totallyTimeSpent" value="5740000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="873" extended-state="6" />
@@ -414,15 +414,15 @@
     <entry file="file://$PROJECT_DIR$/css/foundation.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="235">
-          <caret line="2404" column="2" selection-start-line="2404" selection-start-column="2" selection-end-line="2404" selection-end-column="42" />
+          <caret line="2451" column="42" selection-start-line="2451" selection-start-column="0" selection-end-line="2451" selection-end-column="42" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/app.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+        <state relative-caret-position="135">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding />
         </state>
       </provider>
