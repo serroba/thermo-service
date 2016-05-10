@@ -2,3 +2,7 @@ h1 {
     color: #02A1FF;
     font-weight: bold;
 }
+
+h1 img {
+    height: 100px;
+}
